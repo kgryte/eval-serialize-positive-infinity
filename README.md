@@ -18,7 +18,7 @@ $ npm install eval-serialize-positive-infinity
 var serialize = require( 'eval-serialize-positive-infinity' );
 ```
 
-#### serialize( value )
+#### serialize()
 
 Serializes positive `infinity` for dynamic code evaluation.
 
