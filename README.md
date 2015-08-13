@@ -46,7 +46,6 @@ var serialize = require( 'eval-serialize-positive-infinity' );
 */
 function create() {
 	var f = '';
-
 	f += 'return function fill( len ) {';
 	f += 'var arr = new Array( len );';
 	f += 'for ( var i = 0; i < len; i++ ) {';
