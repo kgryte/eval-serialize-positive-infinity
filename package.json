@@ -1,7 +1,7 @@
 {
   "name": "eval-serialize-positive-infinity",
   "version": "1.0.0",
-  "description": "Serializes positive infinity object for dynamic code evaluation.",
+  "description": "Serializes positive infinity for dynamic code evaluation.",
   "author": {
     "name": "Athan Reines",
     "email": "kgryte@gmail.com"
